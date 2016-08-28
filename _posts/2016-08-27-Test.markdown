@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "This is my first post"
+date:   2016-08-27 21:17:08 -0500
+categories: Random 
+---
+This is my first post. I am testing out how to write a post using Jekyll.
+
